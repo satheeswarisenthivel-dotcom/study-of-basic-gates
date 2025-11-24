@@ -94,17 +94,13 @@ endmodule
 
 ```
 
-
-
 **Logic symbol & Truthtable**
 
+**RTL realization Output:** 
 <img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/3859906c-50b7-4384-bf7f-371e5e984f30" />
 
-**RTL realization Output:** 
-<img width="744" height="179" alt="Screenshot 2025-11-23 203938" src="https://github.com/user-attachments/assets/6faf74ef-c7bc-4877-a1f6-12aa1984e3a7" />
-
 **RTL**
-
+<img width="744" height="179" alt="Screenshot 2025-11-23 203938" src="https://github.com/user-attachments/assets/6faf74ef-c7bc-4877-a1f6-12aa1984e3a7" />
 **Result:**
 
 
