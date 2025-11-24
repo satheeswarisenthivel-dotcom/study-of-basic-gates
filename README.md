@@ -110,4 +110,4 @@ endmodule
 
 **Result:**
 
-
+  Thus the given logic function are implememnted using logic gates and their operations are verified using verilog programming.
